@@ -1,4 +1,4 @@
-# Get to know me
+# Get to know me 
 ## Hola, hola soy Paduques 🧠 
 - Full stack junior developer with the mindset of a senior 👓 and the curiosity of a cat. If I don’t know it, I’ll learn it; if I do know it, there’s probably an update coming tomorrow that will change everything.
 
